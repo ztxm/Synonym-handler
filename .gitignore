@@ -10,7 +10,7 @@
 
 *.csv
 *.xlsx
-!/synonyms/test
+!/synonyms/test/*.csv
 
 # IPython
 profile_default/
